@@ -1,6 +1,6 @@
 # Real-Time Time Series Anomaly Detection UI
 
-![Application UI](assets\UI.png)
+![Application UI](assets/UI.png)
 
 This application provides a comprehensive user interface for training and performing real-time anomaly detection on time series data using one of two powerful machine learning architectures.
 
